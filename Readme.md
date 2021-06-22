@@ -1,0 +1,1 @@
+Programa desenvolvido na disciplina Matemática Discreta II que busca exaustivamente a melhor solução para o Problema da Mochila (Knapsack problem). O programa é interrompido caso o tempo de execução chegue a 1800 segundos.
