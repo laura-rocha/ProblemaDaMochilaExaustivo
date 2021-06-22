@@ -1,3 +1,5 @@
+#Autora: Laura Rocha
+
 from time import time
 
 def defineOrdemLista(dados): #Organiza os itens em ordem decrescente de "preciosidade" (interesse/peso)
